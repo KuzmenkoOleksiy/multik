@@ -1,0 +1,69 @@
+body {
+    background-color: #E7DFD8;
+}
+
+section {
+    padding: 50px 0;
+}
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.cartoon-flex {
+    display: flex;
+    justify-content: space-between;
+    gap: 100px;
+}
+
+.cartoon-btn {
+    border: 0;
+    font-size: 20px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.cartoon-one .cartoon-btn {
+    background-color: #B99FEA;
+}
+
+.cartoon-two .cartoon-btn {
+    background-color: #9feadb;
+}
+
+.number {
+    background-color: #B99FEA;
+    font-size: 30px;
+    padding: 20px 30px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.number2 {
+    background-color: #9feadb;
+    font-size: 30px;
+    padding: 20px 30px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.number3 {
+    background-color: #ffffff;
+    font-size: 30px;
+    padding: 20px 30px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+h2 {
+    margin-top: 60px;
+    margin-bottom: 40px;
+}
+
+img {
+    width: 500px;
+}
+button{
+    border-radius: 20px;
+}
